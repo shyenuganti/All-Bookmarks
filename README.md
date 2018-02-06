@@ -1,6 +1,7 @@
 # All-Bookmarks
 This has all the bookmarks from all devices that are yet to be read, understood and implemented :)
-
+   
+   
 https://www.infoq.com/articles/Wiremock-testing-mocking-over-wire-stubs 
 https://www.youtube.com/watch?v=dKWNZnuZhd0 
 https://automationrhapsody.com/mock-stub-rest-api-wiremock-better-unit-testing/ 
